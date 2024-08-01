@@ -14,3 +14,6 @@ For a comprehensive overview of the entire project, including customer retention
 - **Data**: Raw and cleaned data used for the EDA can be found in the `data/` directory of the primary repository.
 
 For detailed documentation on the EDA process, see the [EDA Documentation](https://github.com/DataAnalyticaLab/online-retail-sales-data-analysis/blob/main/docs/data-processing.md).
+
+---
+The conversation continues on [Kaggle](https://www.kaggle.com/work/collections/14380928)
